@@ -1,5 +1,5 @@
 public class Hello{
    public static void main(String[] args){
-      System.out.println("Hello 我是dev分支");  
+      System.out.println("我的第一个GitHub项目");  
    }
 }
